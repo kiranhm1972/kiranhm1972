@@ -9,23 +9,21 @@
 
 [![JAVA Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=JAVA&logoColor=white)]()
 [![Scala Badge](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=Scala&logoColor=white)]()
-  
 [![Apache Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white)]()
 [![Google Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white)]()
-
-[![Apache Kafka Badge](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white)]()
-[![Apache Hive Badge](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat&logo=Apache%20Hive&logoColor=black)]()
-[![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)]()
 
 [![Terraform Badge](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform&logoColor=white)]()
 [![Apache Maven Badge](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)]()
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)]()
 
+[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)]()
+
+[![Apache Kafka Badge](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white)]()
+[![Apache Hive Badge](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat&logo=Apache%20Hive&logoColor=black)]()
+[![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)]()
 
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)]()
 [![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)]()
-
-[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)]()
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)]()
