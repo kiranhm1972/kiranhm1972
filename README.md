@@ -18,6 +18,8 @@
 [![Terraform Badge](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform&logoColor=white)]()
 [![Apache Maven Badge](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)]()
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)]()
+
 
 [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)]()
 
