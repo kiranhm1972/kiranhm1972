@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @kiranhm1972
-- 👀 I’m interested in Spark, GCP, Scala
+- 👋 Hi, I’m **Kiran Hiremath**
+- 👀 I’m SME in Spark, GCP, Scala
 - 🌱 I’m currently learning Kubernetes in Spark
 - 💞️ I’m looking to collaborate on Distributed and Cloud Technologies 
 - 📫 You can reach me at kiran@sankir.com
 
+## My Workplaces
+[![TCS Badge](https://img.shields.io/badge/-Tata%20Consultancy%20Services-486AAE?style=flat&logo=Tata&logoColor=white)]()
+[![Wipro Badge](https://img.shields.io/badge/-Wipro-341C53?style=flat&logo=Wipro&logoColor=white)]()
 
 ## My TechStack
 
