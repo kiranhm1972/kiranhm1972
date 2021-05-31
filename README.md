@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Kiran Hiremath**
-- 👀 I’m SME in Spark, GCP, Scala
-- 🌱 I’m currently learning Kubernetes in Spark
-- 💞️ I’m looking to collaborate on Distributed and Cloud Technologies 
+- 👀 I’m SME in Distributed Computing using Spark/Scala, GCP
+- 🌱 I’m currently exploring Kubernetes cluster to run Spark
+- 💞️ I’m looking to collaborate on Distributed Computing on Cloud 
 - 📫 You can reach me at kiran@sankir.com
 
 ## My Workplaces
