@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Kiran Hiremath**
-- 👀 I’m SME in Distributed Computing using Spark/Scala, GCP
+- 👀 I’m SME in Data Engineering on Cloud - GCP, AWS, Azure - using Apache Spark (Distributed Computing).
 - 🌱 I’m currently exploring Kubernetes cluster to run Spark
 - 💞️ I’m looking to collaborate on Distributed Computing on Cloud 
 - 📫 You can reach me at kiran@sankir.com
